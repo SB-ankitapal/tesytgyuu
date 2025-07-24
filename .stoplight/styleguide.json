@@ -1,0 +1,25 @@
+{
+  "name": "tesytgyuu",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "testing-process": {
+      "id": "hO0doGBR4iCNUsgxEE08D",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      },
+      "name": "testing-process"
+    }
+  },
+  "extendedDefault": false
+}
